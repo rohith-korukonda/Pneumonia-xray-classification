@@ -1,6 +1,6 @@
 # Pneumonia-xray-classification
 
-Basic visulization and classification using tensorflow
+Basic visualization and classification using tensorflow
 
 ## Executing the project:
   
